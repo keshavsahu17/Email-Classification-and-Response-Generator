@@ -1,0 +1,63 @@
+email,category
+"Your meeting is scheduled for tomorrow at 10 AM",Work
+"Please submit the project report by Friday",Work
+"Your manager has requested an update",Work
+"Team meeting postponed to Monday",Work
+"Happy birthday! Hope you have a wonderful day",Personal
+"Are you free to meet this weekend?",Personal
+"Let's catch up over coffee tomorrow",Personal
+"How was your vacation?",Personal
+"Your bank account has been credited with 5000 rupees",Finance
+"Your monthly bank statement is ready",Finance
+"Your payment of 2500 was successful",Finance
+"Your credit card bill is due tomorrow",Finance
+"Your assignment submission deadline is tomorrow",Academic
+"Your semester examination timetable is released",Academic
+"Please attend the college practical session",Academic
+"Your college fees payment is pending",Academic
+"Get 50 percent discount on all products today",Promotions
+"Limited time offer buy one get one free",Promotions
+"Subscribe now and get exclusive offers",Promotions
+"Big sale starts this weekend",Promotions
+"Congratulations you won a free prize click here",Spam
+"Claim your reward immediately by clicking this link",Spam
+"Your account is compromised verify your password now",Spam
+"Earn thousands daily without any investment",Spam
+
+"Please share the weekly project progress report","Work"
+"The client has requested a revised proposal","Work"
+"Your office attendance has been recorded","Work"
+"Please review the attached presentation","Work"
+"Your salary slip is available for download","Work"
+"Can we reschedule our team discussion?","Work"
+"Mom is asking when you will come home","Personal"
+"Thank you for helping me yesterday","Personal"
+"Let's plan a trip during the holidays","Personal"
+"I will call you after reaching home","Personal"
+"Did you watch the match last night?","Personal"
+"Please send me the photos from yesterday","Personal"
+"Your loan EMI payment is due on Monday","Finance"
+"Your UPI transaction was successful","Finance"
+"Your account balance is below the minimum limit","Finance"
+"Your refund has been processed successfully","Finance"
+"Your debit card statement is now available","Finance"
+"Your insurance premium payment is pending","Finance"
+"Your internal assessment marks are published","Academic"
+"The college has announced a holiday tomorrow","Academic"
+"Your library book return date is approaching","Academic"
+"Registration for the semester examination is open","Academic"
+"Your attendance is below the required percentage","Academic"
+"Please download your college hall ticket","Academic"
+"Get an extra 30 percent off on your next purchase","Promotions"
+"Flash sale ends tonight, shop now","Promotions"
+"Enjoy exclusive deals on your favourite products","Promotions"
+"Use this coupon code to get a special discount","Promotions"
+"New season collection launched with amazing offers","Promotions"
+"Subscribe to receive our latest product updates","Promotions"
+"Click this suspicious link to claim your free money","Spam"
+"Your account will be deleted unless you verify your password","Spam"
+"You have won a lottery you never participated in","Spam"
+"Send your banking PIN to receive a reward","Spam"
+"Congratulations, claim your guaranteed cash prize now","Spam"
+"Urgent! Verify your identity through this unknown link","Spam"
+
